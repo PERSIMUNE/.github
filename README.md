@@ -1,5 +1,3 @@
-# .github
-
 # PERSIMUNE GitHub
 
 ## Introduction
