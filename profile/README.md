@@ -50,7 +50,7 @@ Example: `PAC2023Smith__Data_Preprocessing_Utils`
 
 ## About PERSIMUNE
 
-PERSIMUNE is a renowned research institution dedicated to pushing the boundaries of knowledge in various areas of infectious diseases including pattern recognition from big data from routine care, studies of host and microbial genetics, imaging, and immunological characterization. Our researchers and scholars engage in cutting-edge research, addressing some of the most pressing challenges facing society today. Through interdisciplinary collaboration and innovation, we strive to make meaningful contributions to academia, industry, and the global community.
+Centre for Personalised Medicine of Infectious Complications in Immune Deficiency (PERSIMUNE) funded by Danish National Research Foundation is dedicated to pushing the boundaries of knowledge in various areas of infectious diseases including pattern recognition from big data from routine care, studies of host and microbial genetics, imaging, and immunological characterization. Our researchers and scholars engage in cutting-edge research, addressing some of the most pressing challenges facing society today. Through interdisciplinary collaboration and innovation, we strive to make meaningful contributions to academia, industry, and the global community.
 
 If you are a member of PERSIMUNE, feel free to contribute to existing projects or create new ones that align with our research goals. For external collaborators and users, we welcome your feedback and potential collaboration opportunities.
 
