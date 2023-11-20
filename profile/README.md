@@ -56,6 +56,6 @@ If you are a member of PERSIMUNE, feel free to contribute to existing projects o
 
 ## Contact Information
 
-For any inquiries or support related to our GitHub organization or specific repositories, please contact ramtin.zargari.marandi [AT] regionh.dk.
+For any inquiries or support related to our GitHub organization or specific repositories, please contact ramtin [DOT] zargari [DOT] marandi [AT] regionh [DOT] dk.
 
 Thank you for being a part of our research community, and we look forward to collaborating with you!
